@@ -1,5 +1,3 @@
-- Beginning Java Back-end Developer. 
-- I add some of the programs I create.
 - https://www.linkedin.com/in/vanessa-s-959a95133 
 - 📫 vanessa.sotnas@outlook.com
 
